@@ -1,12 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<note default='true' class='view' xmlns='http://www.lotus.com/dxl' version='9.0'
- replicaid='49257B0500379A93'>
-<noteinfo noteid='17e' unid='85C597DD9B99952B49257B05003CDFC3' sequence='3'>
-<created><datetime>20130201T200454,43+09</datetime></created>
-<modified><datetime>20130201T200531,50+09</datetime></modified>
-<revised><datetime>20130201T200531,49+09</datetime></revised>
-<lastaccessed><datetime>20130201T200531,50+09</datetime></lastaccessed>
-<addedtofile><datetime>20130201T200454,44+09</datetime></addedtofile></noteinfo>
+<note class='view' xmlns='http://www.lotus.com/dxl' version='9.0' replicaid='49257B0500379A93'>
+<noteinfo noteid='1d6' unid='8195CD9DC6466A3649257BE2004BE613' sequence='5'>
+<created><datetime>20130910T224900,99+09</datetime></created>
+<modified><datetime>20131206T124311,14+09</datetime></modified>
+<revised><datetime>20130910T224902,85+09</datetime></revised>
+<lastaccessed><datetime>20131206T124311,14+09</datetime></lastaccessed>
+<addedtofile><datetime>20131206T124311,14+09</datetime></addedtofile></noteinfo>
 <updatedby><name>CN=System Administrator/O=rskkgdev852</name></updatedby>
 <wassignedby><name>CN=System Administrator/O=rskkgdev852</name></wassignedby>
 <item name='$FormulaClass'><text>1</text></item>
